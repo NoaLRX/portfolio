@@ -10,5 +10,17 @@
   },
   "about.qmd": {
     "about.html": "93263814"
+  },
+  "posts/ADD/index.qmd": {
+    "index.html": "18754246"
+  },
+  "posts/ELA/index.qmd": {
+    "index.html": "2816046a"
+  },
+  "posts/STU/index.qmd": {
+    "index.html": "d6cbdf10"
+  },
+  "posts/TDP/index.qmd": {
+    "index.html": "ff481b09"
   }
 }

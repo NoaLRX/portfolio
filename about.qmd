@@ -1,16 +1,16 @@
 ---
-title: "A propos de moi "
+title: "Qui suis-je ?"
 image: ocean.png
 about:
   template: jolla
   image-shape: round
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/NoaLRX
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/noa-le-roux/
 toc: true
 ---
 
@@ -18,7 +18,7 @@ toc: true
 
 Je suis actuellement étudiant en Master de **Statistique**, **Econométrie** à l'IAE de Nantes. Mon intérêt pour les **données** **environnementales** en général et les **données** **marines** en particulier, m'a conduit à me spécialiser dans les **séries temporelles** et le **Machine** **Learning**. Je suis passionné par l'analyse de grandes quantités de données et je suis convaincu que l'utilisation des méthodes statistiques et de l'apprentissage automatique peut aider à résoudre les problèmes environnementaux actuels. J'ai l'ambition de développer mes compétences pour avoir un impact positif sur notre **planète**. Je pense que mes connaissances en matière de statistiques, d'économétrie et d'analyse de données seront un atout précieux pour les entreprises et organisations environnementales pour lesquelles je souhaite travailler.
 
-## **Education**
+## **Formations**
 
 Master en statistiques et Économétrie \| IAE de Nantes \| 2022-2024
 
