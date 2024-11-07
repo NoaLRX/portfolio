@@ -22,7 +22,7 @@ Je suis actuellement étudiant en Master de **Statistique**, **Econométrie** à
 
 Master 2 en statistiques et Économétrie \| IAE de Nantes \| 2024-2025
 
-Année de césure: Voyage en Asie pendant 6 mois *(Philippines, Vietnam, Laos, Indonésie, Malaisie, Thaïlande)*	
+Année de césure: Voyage en Asie pendant 6 mois *(Philippines, Vietnam, Laos, Indonésie, Malaisie, Thaïlande)*
 
 Master 1 en statistiques et Économétrie \| IAE de Nantes \| 2022-2024
 
@@ -34,12 +34,9 @@ Licence d'Économie - Parcours International \| Université de Brest (U.B.O) \| 
 
 [Stage à l'Ifremer \| Mai 2024 - Aout 2024]{.underline}
 
--   Optimisation du modèle de prévision IAM appliqué aux données de pêche
-    en Méditerranée via une dynamisation des espèces statiques dans le modèle
-    prédictif.
+-   Optimisation du modèle de prévision IAM appliqué aux données de pêche en Méditerranée via une dynamisation des espèces statiques dans le modèle prédictif.
 
--   Développement de nouveaux modèles de prévision de Machine Learning & Deep
-    Learning.
+-   Développement de nouveaux modèles de prévision de Machine Learning & Deep Learning.
 
 [Capitainerie du Moulin Blanc \|Agent Plan d'Eau\| Juin 2022 - Aout 2022]{.underline}
 
