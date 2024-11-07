@@ -20,7 +20,11 @@ Je suis actuellement étudiant en Master de **Statistique**, **Econométrie** à
 
 ## **Formations**
 
-Master en statistiques et Économétrie \| IAE de Nantes \| 2022-2024
+Master 2 en statistiques et Économétrie \| IAE de Nantes \| 2024-2025
+
+Année de césure: Voyage en Asie pendant 6 mois *(Philippines, Vietnam, Laos, Indonésie, Malaisie, Thaïlande)*	
+
+Master 1 en statistiques et Économétrie \| IAE de Nantes \| 2022-2024
 
 3ème année de Licence d'Économie, semestre ERASMUS \| Université de Sienne, Italie \| 2022-2022
 
@@ -28,15 +32,26 @@ Licence d'Économie - Parcours International \| Université de Brest (U.B.O) \| 
 
 ## **Expériences**
 
+[Stage à l'Ifremer \| Mai 2024 - Aout 2024]{.underline}
+
+-   Optimisation du modèle de prévision IAM appliqué aux données de pêche
+    en Méditerranée via une dynamisation des espèces statiques dans le modèle
+    prédictif.
+
+-   Développement de nouveaux modèles de prévision de Machine Learning & Deep
+    Learning.
+
 [Capitainerie du Moulin Blanc \|Agent Plan d'Eau\| Juin 2022 - Aout 2022]{.underline}
 
-Accueil sur l'eau des nouveaux plaisanciers au sein du port du Moulin Blanc à brest
+-   Accueil sur l'eau des nouveaux plaisanciers au sein du port du Moulin Blanc à brest
 
-Manoeuvres de remorquage pour déplacer les bateaux dans le besoin
+-   Manoeuvres de remorquage pour déplacer les bateaux dans le besoin
 
-[Stage à **ARKEA** \| Partie MOA \| 2022]{.underline}
+-   [Stage à **ARKEA** \| Partie MOA \| 2022]{.underline}
 
-Entretiens avec les membres de la salle des marchés, dans le but de documenter les saisies de leur opérations financières au sein du logiciel Murex. Création de supports documentés, permettant à la partie MOA de mieux comprendre ces opérations
+-   Entretiens avec les membres de la salle des marchés, dans le but de documenter les saisies de leur opérations financières au sein du logiciel Murex.
+
+-   Création de supports documentés, permettant à la partie MOA de mieux comprendre ces opérations
 
 [Intermarché \| Vendeur/ Boulanger \| Juin 2020 - Mars 2021]{.underline}
 
